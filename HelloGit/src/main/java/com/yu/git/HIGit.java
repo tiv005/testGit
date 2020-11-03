@@ -7,6 +7,7 @@ public class HIGit{
       System.out.println("hi git");
       System.out.println("后来更新");
       System.out.println("第三次更新");
+      System.out.println("第四次更新");
   }
 
 }
